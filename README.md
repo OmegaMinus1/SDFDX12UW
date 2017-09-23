@@ -3,7 +3,7 @@ SDFDX12UW
 
 Universal Windows Sample app of Sign Distance Field Rendering(SDF) in DX12
 
-[This is the sorta same output of the app - Live WebGL](https://www.vectorgenesis.net)
+[This is the same output of the app - Live WebGL](https://www.vectorgenesis.net)
 
 Keys: Escape = Quit
 
